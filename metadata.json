@@ -1,0 +1,9 @@
+{
+  "name": "Remix: AI Stream Analyzer",
+  "description": "Real-time audio and video content analysis using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
